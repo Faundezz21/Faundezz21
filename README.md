@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/Ubicación-Biobío,_Chile-0A66C2?style=flat-square&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/Disponibilidad-Inmediata-2EA44F?style=flat-square" />
   <img src="https://img.shields.io/badge/Modalidad-Remoto_|_Híbrido_|_Presencial-6E40C9?style=flat-square" />
+  <a href="https://cfdevelopment.cl/"><img src="https://img.shields.io/badge/Web-cfdevelopment.cl-111827?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 </p>
 
 ---
@@ -157,11 +158,13 @@ He trabajado en soluciones para el **sector salud**, la **gestión operativa emp
 ### 📫 Contacto
 
 <p align="left">
+  <a href="https://cfdevelopment.cl/"><img src="https://img.shields.io/badge/Sitio_Web-cfdevelopment.cl-111827?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="mailto:cristobalfaundez21@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Faundezz21"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/cristobal-fa%C3%BAndez-704b76323/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
+- 🌐 **Sitio web:** [cfdevelopment.cl](https://cfdevelopment.cl/)
 - 📧 **Email:** [cristobalfaundez21@gmail.com](mailto:cristobalfaundez21@gmail.com)
 - 💼 **LinkedIn:** [cristobal-faúndez](https://www.linkedin.com/in/cristobal-fa%C3%BAndez-704b76323/)
 - 📍 **Ubicación:** Concepción / Cabrero, Región del Biobío, Chile
