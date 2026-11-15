@@ -1,5 +1,14 @@
-<h1 align="center">¡Hola! Soy Cristóbal Faúndez 👋</h1>
-<h3 align="center">Desarrollador Full Stack · Analista de Sistemas · Ingeniería de Ejecución en Informática (en curso)</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:3d59a1&height=200&section=header&text=Crist%C3%B3bal%20Fa%C3%BAndez&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Desarrollador%20Full%20Stack%20%C2%B7%20Analista%20de%20Sistemas&descSize=18&descAlignY=58" width="100%" alt="Cristóbal Faúndez · Desarrollador Full Stack · Analista de Sistemas" />
+</p>
+
+<p align="center">
+  <a href="https://cfdevelopment.cl/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=620&lines=Desarrollador+Full+Stack;.NET+%C2%B7+Angular+%C2%B7+Laravel;APIs+REST+y+bases+de+datos+SQL+%2F+NoSQL;An%C3%A1lisis+de+datos+con+Power+BI;8+certificaciones+profesionales+de+Google" alt="Desarrollador Full Stack · .NET · Angular · Laravel · Power BI" />
+  </a>
+</p>
+
+<h3 align="center">¡Hola! Soy Cristóbal 👋 · Ingeniería de Ejecución en Informática (en curso)</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Ubicación-Biobío,_Chile-0A66C2?style=flat-square&logo=googlemaps&logoColor=white" />
@@ -159,6 +168,14 @@ He trabajado en soluciones para el **sector salud**, la **gestión operativa emp
   <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="165" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./github-snake/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./github-snake/github-snake.svg" />
+    <img src="./github-snake/github-snake-dark.svg" alt="Serpiente animada recorriendo el gráfico de contribuciones" width="100%" />
+  </picture>
+</p>
+
 ---
 
 ### 📫 Contacto
@@ -177,3 +194,5 @@ He trabajado en soluciones para el **sector salud**, la **gestión operativa emp
 - 🕐 **Disponibilidad:** Inmediata · 100% Remoto, Híbrido o Presencial
 
 <p align="center"><i>¡Gracias por visitar mi perfil! Si te interesa colaborar o tienes una oportunidad, no dudes en escribirme. 🚀</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d59a1,100:1a1b27&height=110&section=footer" width="100%" alt="" />

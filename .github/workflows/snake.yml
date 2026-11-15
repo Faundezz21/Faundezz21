@@ -1,0 +1,40 @@
+name: generar serpiente
+
+on:
+  # se ejecuta todos los dias a las 7 am utc
+  schedule:
+    - cron: "0 7 * * *"
+  # permite ejecutarlo a mano desde la pestana actions
+  workflow_dispatch:
+  # se ejecuta al cambiar este workflow para generar la primera version
+  push:
+    branches: [main]
+    paths: [".github/workflows/snake.yml"]
+
+# permiso para que la action pueda subir las imagenes al repo
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # descarga el repo para poder guardar las imagenes
+      - uses: actions/checkout@v4
+
+      # genera la serpiente en version clara y oscura con colores tokyonight
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            github-snake/github-snake.svg
+            github-snake/github-snake-dark.svg?palette=github-dark&color_snake=#7aa2f7&color_dots=#1a1b27,#2f3549,#3d59a1,#7aa2f7,#bb9af7
+
+      # sube las imagenes con tu propio usuario como autor
+      - name: subir serpiente
+        run: |
+          git config user.name "Cristóbal Faúndez Stuardo"
+          git config user.email "59746046+Faundezz21@users.noreply.github.com"
+          git add github-snake
+          git diff --cached --quiet || git commit -m "actualiza la animacion de la serpiente de contribuciones"
+          git push
