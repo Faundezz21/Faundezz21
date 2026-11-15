@@ -43,6 +43,7 @@ He trabajado en soluciones para el **sector salud**, la **gestión operativa emp
 | 📊 [**Vortex Insight**](https://github.com/Faundezz21/Vortes_Insight) | Pipeline de datos sobre ~12,8 millones de órdenes de compra del Estado (ChileCompra 2019–2025) y dashboard de análisis de contratación y concentración de proveedores. | Python · Pandas · Power BI · DAX |
 | 🖥️ [**Vortex Core**](https://github.com/Faundezz21/Vortex_Core) | Centro de telemetría y control térmico para laptops Windows, alternativa liviana a las suites OEM. Incluye instalador, tests y CI. | Python · PowerShell · JavaScript · Inno Setup |
 | 📱 [**V-Screen**](https://github.com/Faundezz21/V-Screen) | Visualización y control de teléfonos Android desde Windows a 120 Hz, con audio, grabación, capturas y transferencia de archivos. | Python · scrcpy · VBScript |
+| 🛒 [**Cartgo**](https://github.com/Faundezz21/Cart-Go) | Tienda e-commerce con catálogo, filtros, carro con cupones, checkout con control de stock transaccional y panel de administración con métricas de ventas. | Next.js 15 · React 19 · TypeScript · MySQL |
 
 ---
 
