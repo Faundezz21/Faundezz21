@@ -1,0 +1,24 @@
+name: generar estadisticas
+
+on:
+  # se ejecuta todos los dias a las 6 am utc
+  schedule:
+    - cron: "0 6 * * *"
+  # permite ejecutarlo a mano desde la pestana actions
+  workflow_dispatch:
+
+# permiso para que la action pueda subir las imagenes al repo
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # genera las tarjetas svg dentro del repo
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: main
