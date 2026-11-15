@@ -159,10 +159,11 @@ He trabajado en soluciones para el **sector salud**, la **gestión operativa emp
 <p align="left">
   <a href="mailto:cristobalfaundez21@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Faundezz21"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <!-- agrega aqui tu badge de linkedin con tu url real -->
+  <a href="https://www.linkedin.com/in/cristobal-fa%C3%BAndez-704b76323/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 - 📧 **Email:** [cristobalfaundez21@gmail.com](mailto:cristobalfaundez21@gmail.com)
+- 💼 **LinkedIn:** [cristobal-faúndez](https://www.linkedin.com/in/cristobal-fa%C3%BAndez-704b76323/)
 - 📍 **Ubicación:** Concepción / Cabrero, Región del Biobío, Chile
 - 🕐 **Disponibilidad:** Inmediata · 100% Remoto, Híbrido o Presencial
 
