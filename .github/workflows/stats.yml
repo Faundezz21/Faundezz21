@@ -15,10 +15,23 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # genera las tarjetas svg dentro del repo
+      # descarga el repo para poder guardar las imagenes
+      - uses: actions/checkout@v4
+
+      # genera las tarjetas svg sin subirlas automaticamente
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: main
+          AUTO_PUSH: false
+
+      # sube las imagenes con tu propio usuario como autor
+      - name: subir tarjetas
+        run: |
+          git config user.name "Cristóbal Faúndez Stuardo"
+          git config user.email "59746046+Faundezz21@users.noreply.github.com"
+          git add profile-summary-card-output
+          git diff --cached --quiet || git commit -m "Actualiza tarjetas de estadisticas"
+          git push
