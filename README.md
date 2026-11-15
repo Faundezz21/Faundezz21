@@ -136,10 +136,15 @@ He trabajado en soluciones para el **sector salud**, la **gestión operativa emp
 
 | Certificación | Emisor | Enfoque |
 |---|---|---|
-| 📊 Google Data Analytics Professional Certificate | Google / Coursera | SQL, Python, R, Tableau, hojas de cálculo, visualización |
+| 📊 Google Data Analytics Professional Certificate | Google / Coursera | SQL, R, Tableau, hojas de cálculo, visualización |
+| 📈 Google Advanced Data Analytics Professional Certificate | Google / Coursera | Python, estadística, regresión, machine learning |
+| 🧮 Google Business Intelligence Professional Certificate | Google / Coursera | Modelado de datos, pipelines ETL, dashboards |
 | 📋 Google Project Management Professional Certificate | Google / Coursera | Metodologías ágiles, Scrum, planificación |
+| 🛠️ Google IT Support Professional Certificate | Google / Coursera | Redes, sistemas operativos, administración de sistemas, seguridad |
+| 🛒 Google Digital Marketing & E-commerce Professional Certificate | Google / Coursera | Marketing digital, analítica web, comercio electrónico |
+| 🧭 Google Data-Driven Decision Making (programa especializado) | Google / Coursera | Toma de decisiones basada en datos |
+| 👥 Google People Management Essentials (programa especializado) | Google / Coursera | Liderazgo y gestión de equipos |
 | 🤖 Google AI Essentials | Google / Coursera | IA aplicada a productividad y desarrollo |
-| 🔒 IT Security: Defense against the digital dark arts | Google / Coursera | Seguridad informática, cifrado, autenticación |
 
 ---
 
