@@ -24,6 +24,18 @@ He trabajado en soluciones para el **sector salud**, la **gestión operativa emp
 
 ---
 
+### 🚀 Proyectos Destacados
+
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| 📅 [**Vortex Booking**](https://github.com/Faundezz21/Vortex_Booking) | Sistema de reservas de salas de estudio universitarias con check-in por QR, liberación automática por inasistencia, lista de espera y exportación iCal. Incluye 79 tests y CI. | Laravel 13 · Livewire · PostgreSQL · Docker |
+| 💊 [**MediVortex**](https://github.com/Faundezz21/MediVortex) | Plataforma logística para droguería: inventario por lotes con ubicaciones, despacho FEFO, trazabilidad, roles y mapa 2D/3D de bodega. | Laravel · MySQL · Tailwind · Alpine.js · Three.js |
+| 📊 [**Vortex Insight**](https://github.com/Faundezz21/Vortes_Insight) | Pipeline de datos sobre ~12,8 millones de órdenes de compra del Estado (ChileCompra 2019–2025) y dashboard de análisis de contratación y concentración de proveedores. | Python · Pandas · Power BI · DAX |
+| 🖥️ [**Vortex Core**](https://github.com/Faundezz21/Vortex_Core) | Centro de telemetría y control térmico para laptops Windows, alternativa liviana a las suites OEM. Incluye instalador, tests y CI. | Python · PowerShell · JavaScript · Inno Setup |
+| 📱 [**V-Screen**](https://github.com/Faundezz21/V-Screen) | Visualización y control de teléfonos Android desde Windows a 120 Hz, con audio, grabación, capturas y transferencia de archivos. | Python · scrcpy · VBScript |
+
+---
+
 ### 🛠️ Stack Tecnológico
 
 **Lenguajes & Backend**
@@ -90,7 +102,7 @@ He trabajado en soluciones para el **sector salud**, la **gestión operativa emp
 
 ---
 
-### 💼 Experiencia Profesional y Proyectos Destacados
+### 💼 Experiencia Profesional
 
 #### 🏥 Sistema Integrado de Inventario y Layout — *Dirección de Administración de Salud (DAS)*
 **Rol:** Desarrollador Full Stack · Líder Técnico · Arquitecto de Software
@@ -133,8 +145,8 @@ He trabajado en soluciones para el **sector salud**, la **gestión operativa emp
 ### 📈 Estadísticas en GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&locale=es" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&locale=es" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Faundezz21&show_icons=true&theme=tokyonight&hide_border=true&locale=es&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faundezz21&layout=compact&theme=tokyonight&hide_border=true&locale=es" />
 </p>
 
 ---
@@ -143,7 +155,8 @@ He trabajado en soluciones para el **sector salud**, la **gestión operativa emp
 
 <p align="left">
   <a href="mailto:cristobalfaundez21@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Faundezz21"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <!-- agrega aqui tu badge de linkedin con tu url real -->
 </p>
 
 - 📧 **Email:** [cristobalfaundez21@gmail.com](mailto:cristobalfaundez21@gmail.com)
