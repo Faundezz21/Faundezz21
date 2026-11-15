@@ -131,7 +131,7 @@ He trabajado en soluciones para el **sector salud**, la **gestión operativa emp
 |---|---|---|
 | 🎯 Ingeniería de Ejecución en Informática | Universidad Católica de la Santísima Concepción (UCSC) | Cursando 4° año |
 | 💻 Técnico Universitario Analista de Sistemas y Programador de Dispositivos Informáticos | UCSC | **Titulado** |
-| 📡 Técnico de Nivel Medio en Telecomunicaciones | Colegio Tecnológico Darío Salas | 2018 – 2020 · Nota 6,7 |
+| 📡 Técnico de Nivel Medio en Telecomunicaciones | Colegio Tecnológico Darío Salas | **Titulado** (2018 – 2020 · Nota 6,7) |
 
 ### 📜 Certificaciones
 
