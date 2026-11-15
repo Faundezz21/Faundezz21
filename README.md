@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/Ubicación-Biobío,_Chile-0A66C2?style=flat-square&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/Disponibilidad-Inmediata-2EA44F?style=flat-square" />
   <img src="https://img.shields.io/badge/Modalidad-Remoto_|_Híbrido_|_Presencial-6E40C9?style=flat-square" />
+  <a href="https://faundezz21.github.io/"><img src="https://img.shields.io/badge/Portafolio-faundezz21.github.io-E5243B?style=flat-square&logo=githubpages&logoColor=white" /></a>
   <a href="https://cfdevelopment.cl/"><img src="https://img.shields.io/badge/Web-cfdevelopment.cl-111827?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 </p>
 
@@ -188,6 +189,7 @@ He trabajado en soluciones para el **sector salud**, la **gestión operativa emp
   <a href="https://www.linkedin.com/in/cristobal-fa%C3%BAndez-704b76323/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
+- 💼 **Portafolio:** [faundezz21.github.io](https://faundezz21.github.io/)
 - 🌐 **Sitio web:** [cfdevelopment.cl](https://cfdevelopment.cl/)
 - 📧 **Email:** [cristobalfaundez21@gmail.com](mailto:cristobalfaundez21@gmail.com)
 - 💼 **LinkedIn:** [cristobal-faúndez](https://www.linkedin.com/in/cristobal-fa%C3%BAndez-704b76323/)
